@@ -1,0 +1,36 @@
+Senior Product Manager, Growth — Acme SaaS Co.
+
+About the Role
+
+We're looking for a Senior PM to own the growth loop at Acme. This role sits at the
+intersection of product, data, and go-to-market. You'll be responsible for activation,
+retention, and expansion across our self-serve and assisted-sales motions.
+
+This is not a feature factory role. We're looking for someone who can define the growth
+model, run structured experiments, and ship changes that compound over time.
+
+What You'll Do
+
+- Own the full activation funnel from signup through first value moment
+- Define and track north star and input metrics for the growth team
+- Run A/B and multivariate experiments across the onboarding and upgrade flows
+- Work with data engineering to build instrumentation and reporting pipelines
+- Partner with marketing on acquisition channels and landing page optimization
+- Collaborate with sales on product-led growth (PLG) to assisted-sales handoff
+
+What We're Looking For
+
+- 5+ years of PM experience with at least 2 in a growth or PLG-focused role
+- Demonstrated ability to move activation or retention metrics with product changes
+  (we'll ask for specific examples with numbers)
+- Strong SQL skills — you can pull your own data without waiting for an analyst
+- Experience running a structured experiment program (hypothesis → design → ship → learn)
+- Familiarity with B2B SaaS metrics: ARR, NRR, payback period, LTV:CAC
+- Experience with a self-serve or freemium business model
+- Ability to write clear product specs and communicate tradeoffs to engineering and design
+
+Nice to Have
+
+- Experience with product analytics tools (Amplitude, Mixpanel, Heap)
+- Exposure to pricing and packaging decisions
+- Background in developer tools or technical B2B products

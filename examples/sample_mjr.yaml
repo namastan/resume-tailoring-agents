@@ -1,0 +1,93 @@
+personal:
+  name: Alex Rivera
+  email: alex.rivera@email.com
+  phone: "+1 (555) 000-0000"
+  location: San Francisco, CA
+  linkedin: linkedin.com/in/alexrivera
+  github: github.com/alexrivera
+
+experiences:
+  - company: Acme SaaS Co.
+    title: Senior Product Manager
+    start_date: "2021-03"
+    end_date: null
+    is_current: true
+    description: null
+    bullets:
+      - id: a1b2c3d4
+        original: Led redesign of onboarding flow that improved activation rates.
+        categories:
+          - product_design_and_development
+          - business_and_marketing
+        strength_score: null
+        coached_variants:
+          - role_type: growth-pm
+            text: >-
+              Redesigned onboarding flow end-to-end — reduced time-to-value from
+              14 days to 6, lifting 30-day activation by 22% across 40K monthly
+              new users.
+            coaching_date: "2026-03-15"
+            jd_source: growth_pm_acme.txt
+
+      - id: e5f6g7h8
+        original: >-
+          Managed a team of 4 engineers to ship a new reporting dashboard
+          used by enterprise customers.
+        categories:
+          - leadership_and_execution
+          - technical_and_analytical
+        strength_score: null
+        coached_variants: []
+
+      - id: i9j0k1l2
+        original: >-
+          Worked with sales and customer success to define enterprise packaging
+          and pricing for a new tier.
+        categories:
+          - strategy_and_planning
+          - business_and_marketing
+        strength_score: null
+        coached_variants: []
+
+  - company: Startup XYZ
+    title: Product Manager
+    start_date: "2018-06"
+    end_date: "2021-02"
+    is_current: false
+    description: null
+    bullets:
+      - id: m3n4o5p6
+        original: >-
+          Built the company's first mobile app from 0 to 1, launching on iOS
+          and Android with 10K downloads in the first month.
+        categories:
+          - product_design_and_development
+          - leadership_and_execution
+        strength_score: null
+        coached_variants: []
+
+      - id: q7r8s9t0
+        original: >-
+          Ran weekly user interviews and synthesized findings into a
+          prioritized backlog.
+        categories:
+          - product_design_and_development
+          - communication
+        strength_score: null
+        coached_variants: []
+
+skills:
+  - Product strategy
+  - User research
+  - SQL
+  - A/B testing
+  - Roadmap planning
+  - Stakeholder management
+  - Figma
+  - Agile / Scrum
+
+education:
+  - institution: State University
+    degree: Bachelor of Science
+    field: Computer Science
+    graduation_year: 2018

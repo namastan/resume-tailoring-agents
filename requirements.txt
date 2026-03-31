@@ -1,0 +1,12 @@
+# resume-tailoring-agents
+# Python 3.10+
+
+anthropic>=0.25.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+
+# Optional: PDF resume parsing
+pypdf>=4.0.0
+
+# Optional: DOCX resume parsing
+python-docx>=1.1.0
